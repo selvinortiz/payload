@@ -1,5 +1,5 @@
 ## Payload
->**Payload** a tiny library and implements array _payload notation_ for PHP written by [Selvin Ortiz](https://selvinortiz.com)
+>**Payload** is a tiny library and implements array _payload notation_ for PHP written by [Selvin Ortiz](https://selvinortiz.com)
 
 ### Requirements
 - PHP 5.4+
