@@ -1,0 +1,22 @@
+{
+    "name": "selvinortiz/payload",
+    "description": "Pass data around and work with it in style",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Selvin Ortiz",
+            "email": "selvin@selvin.co"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SelvinOrtiz\\Payload": "src"
+        }
+    },
+    "require": {
+        "selvinortiz/dot": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4"
+    }
+}
