@@ -1,10 +1,4 @@
-![Payload](Payload.png)
-
-[![Build Status](https://travis-ci.org/selvinortiz/payload.png)](https://travis-ci.org/selvinortiz/payload)
-[![Total Downloads](https://poser.pugx.org/selvinortiz/payload/d/total.png)](https://packagist.org/packages/selvinortiz/payload)
-[![Latest Stable Version](https://poser.pugx.org/selvinortiz/payload/v/stable.png)](https://packagist.org/packages/selvinortiz/payload)
-
-### Description
+## Payload
 >**Payload** a tiny library and implements array _payload notation_ for PHP written by [Selvin Ortiz](https://selvinortiz.com)
 
 ### Requirements
